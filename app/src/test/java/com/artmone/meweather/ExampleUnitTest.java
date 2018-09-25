@@ -1,4 +1,4 @@
-package com.londonappbrewery.climapm;
+package com.artmone.meweather;
 
 import org.junit.Test;
 
